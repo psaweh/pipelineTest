@@ -1,3 +1,3 @@
 # pipelineTest
 new file
-new line
+new lines
